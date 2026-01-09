@@ -73,4 +73,10 @@ These are explored in detail in the transcripts:
 ---
 
 ## Structure of This Repository
-
+/setup.md – Test configuration and assumptions
+/exchanges/
+/exchange-1/ – Baseline task prompt
+/exchange-2/ – Task + explicit capability question
+/exchange-3/ – Task + constraints + non-fabrication rules
+/screenshots/ – Homepage ground truth
+/transcripts/ – Full chat transcripts
