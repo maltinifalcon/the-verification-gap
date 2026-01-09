@@ -80,3 +80,24 @@ These are explored in detail in the transcripts:
 /exchange-3/ – Task + constraints + non-fabrication rules
 /screenshots/ – Homepage ground truth
 /transcripts/ – Full chat transcripts
+
+
+---
+
+## How to Use This Repo
+
+- Review the prompts and transcripts
+- Compare AI responses to the captured ground truth
+- Draw your own conclusions
+
+If you see alternative explanations, better methodologies, or different interpretations, those are welcome.
+
+---
+
+## Invitation
+
+I’m not an AI researcher or model architect.
+
+I’m a leader trying to understand how to responsibly introduce AI into real workflows without quietly increasing risk.
+
+If you see flaws in the approach, better tests, or ways to reduce verification burden without sacrificing trust, I’d love to hear them.
